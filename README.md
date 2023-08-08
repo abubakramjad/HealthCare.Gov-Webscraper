@@ -5,7 +5,7 @@ Install the python modules required to run the program.
  pip install -r requirements.txt
 ```
 
-After running the file Healthcare.Gov.py, the following prompt would show up in the terminal, asking you to input the name of the .csv file where you'd like to store the results.
+After running the file Healthcare.Gov Scraper.py, the following prompt would show up in the terminal, asking you to input the name of the .csv file where you'd like to store the results.
 
 ```
 Please enter a file name to create a new csv file to store your scraped data: {file name}
