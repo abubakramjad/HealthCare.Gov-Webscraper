@@ -85,10 +85,10 @@ On the last filter prompt, you'd be asked for the time you'd want your searched 
 In this example, we'd select 2 as our input because we want our searched service providers to be available from 9am to 5pm.
 
 ```
-What days would you like for service provider to be available on? Please enter:                                     
-'1' for Weekdays
-'2' for Weekends
-'3' for Both Weekdays and Weekends
+What time would you like for service provider to be available on? Please enter:
+'1' for before 9am
+'2' for 9am to 5pm
+'3' for after 5pm
 2
 ```
 Once the input has been entered to the above mentioned prompt, the scraping process will begin. Starting from page 10, all the way til page 40.
